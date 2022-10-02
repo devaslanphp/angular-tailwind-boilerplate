@@ -8,6 +8,11 @@ This is a project based on Angular and integrate Tailwind with a basic setup to 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## What's inside?
+- [x] [Angular](https://angular.io/)
+- [x] [TailwindCSS](https://tailwindcss.com/)
+- [x] [Fontawesome](https://fontawesome.io/)
+
 ## Prerequisites
 
 This project is created using `@angular/cli` so we recommend you to install this tool with the command:
