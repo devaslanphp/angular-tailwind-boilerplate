@@ -14,6 +14,6 @@ npm i -g @angular/cli
 
 1. Clone this repository into your development environment
 2. Install dependencies `npm install` (or `yarn install`)
-3. Server the application `ng serve`
+3. Serve the application `ng serve`
 
 **Enjoy Coding!**
