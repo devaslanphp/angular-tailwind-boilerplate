@@ -11,7 +11,7 @@ This is a project based on Angular and integrate Tailwind with a basic setup to 
 ## What's inside?
 - [x] [Angular](https://angular.io/)
 - [x] [TailwindCSS](https://tailwindcss.com/)
-- [x] [Fontawesome](https://fontawesome.io/)
+- [x] [Fontawesome](https://fontawesome.com/)
 
 ## Prerequisites
 
