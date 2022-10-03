@@ -33,6 +33,4 @@ npm i -g @angular/cli
 
 You can find a full documentation here: [Documentation](https://devaslanphp.github.io/angular-tailwind-boilerplate)
 
----
-
 **Enjoy Coding!**
